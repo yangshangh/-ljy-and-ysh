@@ -1,5 +1,6 @@
-#  SM2实现
-##  SM2加解密部分
+# SM2实现
+本实验由杨尚华个人独立完成
+##SM2加解密部分
 下图为SM2加解密实现流程：
 
 ![image](https://user-images.githubusercontent.com/109864695/182009767-8a187bac-51b1-424c-adf1-3794661582d7.png)
