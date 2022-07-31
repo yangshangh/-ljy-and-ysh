@@ -7,3 +7,4 @@ SM3的步骤大体可分为四步：
 4、输出结果  
 在实现过程中也学习到了如何使用gmssl库去调用SM3算法，这在后续的SM2项目中也有所涉及  
 代码运行结果如文件夹“ysh程序运行结果”所示
+![ysh_sm3](https://user-images.githubusercontent.com/109864695/182008069-54b35057-97db-4114-a13d-6115ddbdf274.png)
